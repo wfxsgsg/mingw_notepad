@@ -11,3 +11,5 @@ https://blog.csdn.net/htf15/article/details/16846143
 
 c语言printf实现同一位置打印输出的实例
 https://www.jb51.net/article/124758.htm
+
+ftp://sourceware.org/pub/gdb/releases/gdb-8.2.1.tar.gz
